@@ -1,0 +1,5 @@
+org/storware/Main.class
+org/storware/Calculator$1.class
+org/storware/FileParsingException.class
+org/storware/Calculator.class
+org/storware/Instruction.class
